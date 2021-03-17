@@ -1,0 +1,16 @@
+C:\Users\karol\OneDrive\Documentos\CursoDio\CRUDSeries\bin\Debug\net5.0\CRUDSeries.exe
+C:\Users\karol\OneDrive\Documentos\CursoDio\CRUDSeries\bin\Debug\net5.0\CRUDSeries.deps.json
+C:\Users\karol\OneDrive\Documentos\CursoDio\CRUDSeries\bin\Debug\net5.0\CRUDSeries.runtimeconfig.json
+C:\Users\karol\OneDrive\Documentos\CursoDio\CRUDSeries\bin\Debug\net5.0\CRUDSeries.runtimeconfig.dev.json
+C:\Users\karol\OneDrive\Documentos\CursoDio\CRUDSeries\bin\Debug\net5.0\CRUDSeries.dll
+C:\Users\karol\OneDrive\Documentos\CursoDio\CRUDSeries\bin\Debug\net5.0\ref\CRUDSeries.dll
+C:\Users\karol\OneDrive\Documentos\CursoDio\CRUDSeries\bin\Debug\net5.0\CRUDSeries.pdb
+C:\Users\karol\OneDrive\Documentos\CursoDio\CRUDSeries\obj\Debug\net5.0\CRUDSeries.csprojAssemblyReference.cache
+C:\Users\karol\OneDrive\Documentos\CursoDio\CRUDSeries\obj\Debug\net5.0\CRUDSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karol\OneDrive\Documentos\CursoDio\CRUDSeries\obj\Debug\net5.0\CRUDSeries.AssemblyInfoInputs.cache
+C:\Users\karol\OneDrive\Documentos\CursoDio\CRUDSeries\obj\Debug\net5.0\CRUDSeries.AssemblyInfo.cs
+C:\Users\karol\OneDrive\Documentos\CursoDio\CRUDSeries\obj\Debug\net5.0\CRUDSeries.csproj.CoreCompileInputs.cache
+C:\Users\karol\OneDrive\Documentos\CursoDio\CRUDSeries\obj\Debug\net5.0\CRUDSeries.dll
+C:\Users\karol\OneDrive\Documentos\CursoDio\CRUDSeries\obj\Debug\net5.0\ref\CRUDSeries.dll
+C:\Users\karol\OneDrive\Documentos\CursoDio\CRUDSeries\obj\Debug\net5.0\CRUDSeries.pdb
+C:\Users\karol\OneDrive\Documentos\CursoDio\CRUDSeries\obj\Debug\net5.0\CRUDSeries.genruntimeconfig.cache
